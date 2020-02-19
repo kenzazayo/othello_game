@@ -1,4 +1,4 @@
-<img src="img/main.png" align="middle" width="3000"/>
+<img src="image/main.jpg" align="middle" width="3000"/>
 
 # Java Othello Game(PvP) (Beta)
 
