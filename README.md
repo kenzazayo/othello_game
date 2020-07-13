@@ -12,3 +12,9 @@ This game is using core Java , Java Swing GUI libraries and javax libraries. It 
 
 **Running**
 It have .jar file in this repository is in the folder.  You can run the executable .jar file, named othello.jar to play.
+
+**Java version**
+java jdk 12.0.1
+
+**Notification**
+You must to use java version > Java 11 that can work for no problem 
